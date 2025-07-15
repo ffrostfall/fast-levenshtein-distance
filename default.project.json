@@ -1,0 +1,6 @@
+{
+	"name": "fast-levenshtein-distance",
+	"tree": {
+		"$path": "src"
+	}
+}
