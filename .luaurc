@@ -1,0 +1,8 @@
+{
+	"languageMode": "strict",
+	"aliases": {
+		"src": "./src/",
+		"vendor": "./vendor/",
+		"lute": "~/.lute/typedefs/0.1.0"
+	}
+}
